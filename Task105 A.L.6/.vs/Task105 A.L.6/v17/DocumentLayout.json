@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\studentdontfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\studentdontfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|c:\\users\\kh53\\source\\repos\\task105 a.l.6\\task105 a.l.6\\classroomdontfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89F4B-E8EA-4476-BD89-A0832D4598F1}|Task105 A.L.6\\Task105 A.L.6.csproj|solutionrelative:task105 a.l.6\\classroomdontfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Typeenum.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Typeenum.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Typeenum.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Typeenum.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Typeenum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:49:45.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Classroom.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Classroom.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Classroom.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Classroom.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:48:51.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Program.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Program.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Program.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:46:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studentdontfoundexception.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Studentdontfoundexception.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Studentdontfoundexception.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Studentdontfoundexception.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Studentdontfoundexception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:50:41.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Student.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Student.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Student.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:49:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Helper.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\Helper.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\Helper.cs",
+              "RelativeToolTip": "Task105 A.L.6\\Helper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:49:07.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "classroomdontfound.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\classroomdontfound.cs",
+              "RelativeDocumentMoniker": "Task105 A.L.6\\classroomdontfound.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105 A.L.6\\Task105 A.L.6\\classroomdontfound.cs",
+              "RelativeToolTip": "Task105 A.L.6\\classroomdontfound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:50:09.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
